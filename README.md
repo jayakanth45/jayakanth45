@@ -30,14 +30,34 @@ Here are a few of my notable projects that you can check out:
 
 ### 1. **[Predicting Used Car Prices](https://github.com/jayakanth45/Prediction-of-prices-for-used-cars)**  
   A machine learning model that predicts the price of used cars based on various features like brand, year of manufacture, mileage, and location. I used **Linear Regression** and **Random Forest Regressor** for this project.
+  ### 2. **[DSA Solutions](https://github.com/jayakanth45/Data-structures-and-Algorithms)**  
+  A repository containing solutions to various **Data Structures and Algorithms (DSA)** problems that I've solved. This includes problems from platforms like **LeetCode**, **HackerRank**, **Codeforces**, and **GeeksforGeeks**.
 
-### 2. **[Movie Recommendation System](https://github.com/yourusername/MovieRecSystem)**  
+### 3. **[Site for Donations and Requests](https://github.com/yourusername/donations-requests)**  
+  A website developed using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**, where users can post donation requests or donate items to others in need. The platform allows users to create profiles, manage their requests, and view others' donation requests.
+
+### 4. **[Fake Media Detection using NLP and Blockchain](https://github.com/jayakanth45/Fake-media-detection-using-NLP-and-Blockchain/blob/main/README.md)**  Note:Currently in progress
+  A project that combines **Natural Language Processing (NLP)** and **Blockchain** to detect fake media (images, videos, articles). The system aims to provide transparency and prevent the spread of misinformation by verifying media sources and content using blockchain technology.
+
+### 5. **[Movie Recommendation System](https://github.com/yourusername/MovieRecSystem)**  
   A recommendation system that uses **Collaborative Filtering** and **Content-Based Filtering** techniques to suggest movies to users based on their interests. The system is built using **Python**, **Pandas**, and **Scikit-learn**.
 
-### 3. **[GPA Calculator](https://github.com/jayakanth45/Gpa-calculator)**  
+### 6. **[GPA Calculator](https://github.com/jayakanth45/Gpa-calculator)**  
   A C++ based GPA calculator that helps students calculate their **Grade Point Average** based on their grades and credits for each subject.
 
 ---
+
+## 📝 Research Paper Publication
+I have published a research paper titled:
+
+**"Enhancing Model Interpretability using Local Interpretable Model-Agnostic Explanations (LIME): Insights from Predictive Analysis on Housing Market Dynamics"**  
+Published in the **Grenze International Journal of Engineering and Technology**, Volume: 10, Issue: 2.  
+[Paper Link (Full Text)](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=3148&id=8)  
+Authors: Naga Siva Jyothi Kompalli, Medavarapu Swethan Rao, Pilli Uttej, Kancharla Jayakanth Reddy  
+
+---
+
+
 
 ## 🌍 My Coding Profiles
 Here are links to my profiles where I actively solve coding problems and participate in coding challenges:
