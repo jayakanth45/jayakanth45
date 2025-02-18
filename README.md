@@ -39,7 +39,7 @@ Here are a few of my notable projects that you can check out:
 ### 4. **[Fake Media Detection using NLP and Blockchain](https://github.com/jayakanth45/Fake-media-detection-using-NLP-and-Blockchain/blob/main/README.md)**  Note:Currently in progress
   A project that combines **Natural Language Processing (NLP)** and **Blockchain** to detect fake media (images, videos, articles). The system aims to provide transparency and prevent the spread of misinformation by verifying media sources and content using blockchain technology.
 
-### 5. **[Movie Recommendation System](https://github.com/yourusername/MovieRecSystem)**  
+### 5. **[Movie Recommendation System](https://github.com/jayakanth45/movie-recommendation-system)**  
   A recommendation system that uses **Collaborative Filtering** and **Content-Based Filtering** techniques to suggest movies to users based on their interests. The system is built using **Python**, **Pandas**, and **Scikit-learn**.
 
 ### 6. **[GPA Calculator](https://github.com/jayakanth45/Gpa-calculator)**  
